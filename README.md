@@ -8,4 +8,4 @@ I built an Options Pricing Model that integrates a Monte Carlo simulation with m
 **Monte Carlo Simulation:** Projects out a large number of random stock price pathways, calculates each path's options payout, and averages the discounted payoff to find the estimated optoin value.
 
 ## Files
-Each Jupyter Noteboook contains each separate framework, and the Python file uses Streamlit to create an interactive web application. 
+The Jupyter Notebooks contain each separate framework, and the Python file uses Streamlit to create an interactive web application. 
